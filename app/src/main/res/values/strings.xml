@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">OompaLoompas</string>
+
+    <string name="favorites">Favorites</string>
+    <string name="favorites_oompa_loompas">Favorites Oompa Loompas</string>
+    <string name="title_empty_favorites_oompa_loompas">Empty favorites Oompa Loompas</string>
+    <string name="message_empty_favorites_oompa_loompas">You can add your favorites Oompa Loompas just click here!</string>
+    <string name="see_oompa_loompas">See Oompa Loompas!</string>
+
+    <string name="home">Home</string>
+    <string name="home_oompa_loompas">Oompa Loompas</string>
+
+    <string name="settings">Settings</string>
+
+    <string name="search">Search</string>
+    <string name="search_name">Search name: %1$s</string>
+
+    <string name="detail_oompa_loompa">Detail Oompa Loompa</string>
+    <string name="profession_oompa_loompa">Profession Oompa Loompa</string>
+    <string name="profession">Profession: %1$s</string>
+
+    <plurals name="profession_title">
+        <item quantity="one">Profession</item>
+        <item quantity="other">Professions</item>
+    </plurals>
+    <string name="gender">Gender: %1$s</string>
+    <string name="first_name">First name</string>
+    <string name="genders">Genders</string>
+    <string name="country">Country: %1$s</string>
+    <string name="email">Email: %1$s</string>
+    <string name="favorite_color">Favorite color: %1$s</string>
+    <string name="favorite_food">Favorite food: %1$s</string>
+    <string name="favorite_song">Favorite song</string>
+    <string name="description">Description</string>
+    <string name="quota">Quota</string>
+
+    <string name="all">All</string>
+    <string name="profession_developer">Developer</string>
+    <string name="profession_metalworker">Metalworker</string>
+    <string name="profession_gemcutter">Gemcutter</string>
+    <string name="profession_medic">Medic</string>
+    <string name="profession_brewer">Brewer</string>
+
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+
+
+
+    <string name="img_detail_oompa_loompa">Image detail oompa loompa</string>
+
+    <string name="content_description_image_oompa_loompa">Image oompa loompa</string>
+    <string name="content_description_gender_male">Oompa loompa gender male</string>
+    <string name="content_description_gender_female">Oompa loompa gender female</string>
+    <string name="content_description_favorite">Oompa loompa favorite</string>
+    <string name="content_description_unfavorite">Oompa loompa unfavorite</string>
+
+    <string name="error_api_notified">Please report this error to the support.</string>
+    <string name="error_api_unauthorized_error">You are unauthorized, please contact with the support.</string>
+    <string name="error_api_connectivity_error">Please check your connection.</string>
+    <string name="error_api_try_again">Please try again.</string>
+
+    <string name="error_file_not_found">This file don\'t exit. Please try again.</string>
+    <string name="error_file_read_error">Error while reading file. Please try again.</string>
+
+    <string name="error_local_database_missing">Please report this error to the support.</string>
+
+    <string name="error_network">You lost the connection. Please check your connection</string>
+    <string name="enable_network">Your connection is available.</string>
+</resources>
